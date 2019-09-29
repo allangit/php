@@ -6,7 +6,7 @@
 
 	class persona{
 
-		public $nombre,$edad,$pais;
+		public $nombre,$edad,$pais; //haciendo cambios
 
 		public function mostrarinformacion() {
 
